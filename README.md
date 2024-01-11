@@ -6,7 +6,9 @@
 </picture>
 </p>
 <h1 align="center">
+
 # **C - Binary Trees**
+
 </h1>
 
 
