@@ -11,7 +11,6 @@
 C - Binary Trees
 </h1></B>
 
-
 ## **Tasks**
 0. Write a function that creates a binary tree node.
 1. Write a function that inserts a node as the left-child of another node.
